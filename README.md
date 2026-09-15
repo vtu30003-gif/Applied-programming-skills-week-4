@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vtu30003-gif/Applied-programming-skills-week-4/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/vtu30003-gif/Applied-programming-skills-week-4/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu30003-gif/Applied-programming-skills-week-4/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/vtu30003-gif/Applied-programming-skills-week-4/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu30003-gif/Applied-programming-skills-week-4/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/vtu30003-gif/Applied-programming-skills-week-4/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu30003-gif/Applied-programming-skills-week-4/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/vtu30003-gif/Applied-programming-skills-week-4/tree/master/0933-number-of-recent-calls) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vtu30003-gif/Applied-programming-skills-week-4/tree/master/0621-task-scheduler) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/vtu30003-gif/Applied-programming-skills-week-4/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
